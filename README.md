@@ -2,7 +2,7 @@
 
 Travel Advisor App is a static travel advice website built with **Next.js 15**, **React.js**, and **TailwindCSS**. It provides valuable travel tips and recommendations in a sleek, responsive design optimized for user experience and performance.  
 
-## [Demo](https://next-trip-advisor-app.vercel.app/)  
+## [Demo](https://next-travel-advisor-app.vercel.app/)  
 
 ![Project Screenshot](https://raw.githubusercontent.com/abdulhai-rawan/next-travel-advisor-app/refs/heads/master/public/Screenshot%202024-12-03%20142107.png)  
 
