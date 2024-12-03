@@ -59,8 +59,8 @@ const Footer = () => {
         <div className="border bg-gray-20" />
         <p className="regular-14 w-full text-center text-gray-30">
           © {new Date().getFullYear()}. Designed and developed by{" "}
-          <a href="#" className="text-blue-700" target="_blank">
-            hamid
+          <a href="https://github.com/abdulhai-rawan" className="text-blue-700" target="_blank">
+            abdulhairawan
           </a>
           . All rights reserved.
         </p>
